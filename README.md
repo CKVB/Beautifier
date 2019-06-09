@@ -8,3 +8,5 @@ Beautifier is a windows application for arranging the files within a folder.
 ## Now let's see the same folder when the files within the folder are properly organized (Beautified)😍.
 # After running the application.
 ![after](https://user-images.githubusercontent.com/39863022/59164054-f9a67f80-8b25-11e9-9759-ebdaf62e0b73.png)
+## So how to run the application 🤔.
+You can either clone this repository or download only the installer --->  
