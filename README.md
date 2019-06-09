@@ -9,4 +9,7 @@ Beautifier is a windows application for arranging the files within a folder.
 # After running the application.
 ![after](https://user-images.githubusercontent.com/39863022/59164054-f9a67f80-8b25-11e9-9759-ebdaf62e0b73.png)
 ## So how to run the application 🤔.
-You can either clone this repository or download only the installer --->  
+You can either clone this repository or download only the installer
+## For better user experience try the installer
+Once after downloading the installer / cloning the repository.
+# Run the application
