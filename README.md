@@ -15,3 +15,5 @@ Once after downloading the installer / cloning the repository.
 # Run the application.
 ![output1](https://user-images.githubusercontent.com/39863022/59164343-155f5500-8b29-11e9-8d42-2043d058c22c.png)
 # Copy the path of your target folder
+![path](https://user-images.githubusercontent.com/39863022/59164363-5c4d4a80-8b29-11e9-904a-f21313db9b80.png)
+# Paste the path in your application 
