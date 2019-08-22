@@ -1,6 +1,6 @@
 # Beautifier
 
-## Install this package : pip install beautify
+## Install this package : pip install pybeautify
 
 ## Open the python console and type : import beautify
 
