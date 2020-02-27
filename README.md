@@ -24,4 +24,6 @@ Once after downloading the installer / cloning the repository.
 # Paste the path in your application. 
 ![Captpoure](https://user-images.githubusercontent.com/39863022/75495457-924a9b80-59e4-11ea-9830-963306afa327.PNG)
 # Click the Beautify button and see the magic happen.
+# In case if you need to undo the changes click the Undo Button and the changes will be reverted.
+![Capture](https://user-images.githubusercontent.com/39863022/75495802-7a274c00-59e5-11ea-9ae7-977b89f83084.PNG)
 ## Thank You.
