@@ -22,7 +22,7 @@ Once after downloading the installer / cloning the repository.
 # Copy the path of your target folder.
 ![path](https://user-images.githubusercontent.com/39863022/59164363-5c4d4a80-8b29-11e9-904a-f21313db9b80.png)
 # Paste the path in your application. 
-![Captpoure](https://user-images.githubusercontent.com/39863022/75495457-924a9b80-59e4-11ea-9830-963306afa327.PNG)
+![Capture2](https://user-images.githubusercontent.com/39863022/75525909-b931bd80-5a36-11ea-8122-c3be4c84ce65.PNG)
 # Click the Beautify button and see the magic happen.
 # In case if you need to undo the changes click the Undo Button and the changes will be reverted.
 ![Capture](https://user-images.githubusercontent.com/39863022/75495802-7a274c00-59e5-11ea-9ae7-977b89f83084.PNG)
