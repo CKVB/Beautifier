@@ -18,7 +18,7 @@ You can either clone this repository or download only the installer
 ## For better user experience try the installer.
 Once after downloading the installer / cloning the repository.
 # Run the application.
-![Captu9re](https://user-images.githubusercontent.com/39863022/75495320-43046b00-59e4-11ea-9ebf-bfbe05ecafd1.PNG)
+![Capture](https://user-images.githubusercontent.com/39863022/75525785-7bcd3000-5a36-11ea-8357-9e3449d1b7e0.PNG)
 # Copy the path of your target folder.
 ![path](https://user-images.githubusercontent.com/39863022/59164363-5c4d4a80-8b29-11e9-904a-f21313db9b80.png)
 # Paste the path in your application. 
