@@ -25,6 +25,6 @@ Once after downloading the installer / cloning the repository.
 ![Capture2](https://user-images.githubusercontent.com/39863022/75525909-b931bd80-5a36-11ea-8122-c3be4c84ce65.PNG)
 # Click the Beautify button and see the magic happen.
 # In case if you need to undo the changes click the Undo Button and the changes will be reverted.
-![Capture](https://user-images.githubusercontent.com/39863022/75495802-7a274c00-59e5-11ea-9ae7-977b89f83084.PNG)
+![Captur5e](https://user-images.githubusercontent.com/39863022/75526004-ec744c80-5a36-11ea-9f0b-0901d79e9037.PNG)
 # Files back to their initial state.
 ![before](https://user-images.githubusercontent.com/39863022/59163963-d929f580-8b24-11e9-98eb-3cadc20f10a8.png)
