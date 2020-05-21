@@ -1,4 +1,4 @@
-# Beautifier
+# Beautifier [![Downloads](https://pepy.tech/badge/pybeautify)](https://pepy.tech/project/pybeautify)
 
 ## Install this package : pip install pybeautify
 
