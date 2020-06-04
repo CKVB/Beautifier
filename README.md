@@ -1,8 +1,10 @@
 # Beautifier [![Downloads](https://pepy.tech/badge/pybeautify)](https://pepy.tech/project/pybeautify)
 
-## Install this package : pip install pybeautify
+## Install this package 
+### ```pip install pybeautify```
 
-## Open the python console and type : import beautify
+## Open the python console and type 
+### ```>>> import beautify```
 
 Beautifier is a windows application for arranging the files within a folder.
 # Everybody want their files to be arranged in an organized way within a folder.
