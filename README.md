@@ -5,7 +5,6 @@
 
 ## Open the python console and type 
 ### ```>>> import beautify```
-
 Beautifier is a windows application for arranging the files within a folder.
 # Everybody want their files to be arranged in an organized way within a folder.
 # So let's see an application that does this for us.
@@ -15,10 +14,6 @@ Beautifier is a windows application for arranging the files within a folder.
 ## Now let's see the same folder when the files within the folder are properly organized (Beautified)😍.
 # After running the application.
 ![after](https://user-images.githubusercontent.com/39863022/59164054-f9a67f80-8b25-11e9-9759-ebdaf62e0b73.png)
-## So how to run the application 🤔.
-You can either clone this repository or download only the installer
-## For better user experience try the installer.
-Once after downloading the installer / cloning the repository.
 # Run the application.
 ![Capture](https://user-images.githubusercontent.com/39863022/75525785-7bcd3000-5a36-11ea-8357-9e3449d1b7e0.PNG)
 # Copy the path of your target folder.
