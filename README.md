@@ -1,5 +1,4 @@
-# Beautifier [![Downloads](https://pepy.tech/badge/pybeautify)](https://pepy.tech/project/pybeautify) ![visitors](https://visitor-badge.glitch.me/badge?page_id=CKVB.id)
-
+# Beautifier [![Downloads](https://pepy.tech/badge/pybeautify)](https://pepy.tech/project/pybeautify)
 ## Install this package 
 ### ```pip install pybeautify```
 
